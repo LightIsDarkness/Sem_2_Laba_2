@@ -1,0 +1,7 @@
+C:\Users\ALITE\source\repos\Sem_2__Lab_2\bin\Debug\Sem_2__Lab_2.exe.config
+C:\Users\ALITE\source\repos\Sem_2__Lab_2\bin\Debug\Sem_2__Lab_2.exe
+C:\Users\ALITE\source\repos\Sem_2__Lab_2\bin\Debug\Sem_2__Lab_2.pdb
+C:\Users\ALITE\source\repos\Sem_2__Lab_2\obj\Debug\Sem_2__Lab_2.csproj.AssemblyReference.cache
+C:\Users\ALITE\source\repos\Sem_2__Lab_2\obj\Debug\Sem_2__Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\ALITE\source\repos\Sem_2__Lab_2\obj\Debug\Sem_2__Lab_2.exe
+C:\Users\ALITE\source\repos\Sem_2__Lab_2\obj\Debug\Sem_2__Lab_2.pdb
